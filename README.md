@@ -7,7 +7,7 @@ This is a simple GUI based Barcode_Generator
 3. PySimpleGUI
 
 ## How to use
-1. after installing the following dependencies listed above ren the Barcode_Generator.py file.
+1. after installing the following dependencies listed above run the Barcode_Generator.py file.
 2. the file will ask for the text. this might be a number, sentence, paragragh or a link.
 3. Now, Click OK. a popup will appear with the name of the file, the file extension would be .jpg
 4. open the .jpg file and then YOU HAVE YOUR BARCODE!!!!
