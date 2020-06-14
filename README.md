@@ -13,8 +13,8 @@ This is a simple GUI based Barcode_Generator
 4. open the .jpg file and then YOU HAVE YOUR BARCODE!!!!
 
 ## Install Required Packages Using Pip
-pip install pdf417
+```pip install pdf417```
 
-pip install PySimpleGUI
+```pip install PySimpleGUI```
 
 #note:- random is a preinstalled module
